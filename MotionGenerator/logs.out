@@ -1,0 +1,30 @@
+[07/11/25 19:30:57][__main__][INFO] - Interaction script. The result will be saved there: /Volumes/ADATA HD650/HonourThesis/project/models/TEMOS/tmp/npy_png_output
+[07/11/25 19:30:57][__main__][INFO] - The sentence is: A person walks and waves
+[07/11/25 19:31:01][lightning_fabric.utilities.seed][INFO] - Global seed set to 1234
+[07/11/25 19:31:01][__main__][INFO] - Loading model
+[07/11/25 19:31:01][__main__][INFO] - The topology will be neutral.
+[07/11/25 19:31:27][__main__][INFO] - Interaction script. The result will be saved there: /Volumes/ADATA HD650/HonourThesis/project/models/TEMOS/tmp/npy_png_output
+[07/11/25 19:31:27][__main__][INFO] - The sentence is: A person waves left hand
+[07/11/25 19:31:28][lightning_fabric.utilities.seed][INFO] - Global seed set to 1234
+[07/11/25 19:31:28][__main__][INFO] - Loading model
+[07/11/25 19:31:28][__main__][INFO] - The topology will be neutral.
+[07/11/25 19:31:53][__main__][INFO] - Interaction script. The result will be saved there: /Volumes/ADATA HD650/HonourThesis/project/models/TEMOS/tmp/npy_png_output
+[07/11/25 19:31:53][__main__][INFO] - The sentence is: A person waves left hand
+[07/11/25 19:31:54][lightning_fabric.utilities.seed][INFO] - Global seed set to 1234
+[07/11/25 19:31:54][__main__][INFO] - Loading model
+[07/11/25 19:31:54][__main__][INFO] - The topology will be neutral.
+[07/11/25 19:33:46][__main__][INFO] - Interaction script. The result will be saved there: /Volumes/ADATA HD650/HonourThesis/project/models/TEMOS/tmp/npy_png_output
+[07/11/25 19:33:46][__main__][INFO] - The sentence is: A person walks and waves
+[07/11/25 19:33:48][lightning_fabric.utilities.seed][INFO] - Global seed set to 1234
+[07/11/25 19:33:48][__main__][INFO] - Loading model
+[07/11/25 19:33:48][__main__][INFO] - The topology will be neutral.
+[07/11/25 19:35:44][__main__][INFO] - Interaction script. The result will be saved there: /Volumes/ADATA HD650/HonourThesis/project/models/TEMOS/tmp/npy_png_output
+[07/11/25 19:35:44][__main__][INFO] - The sentence is: A person walks and waves
+[07/11/25 19:35:46][lightning_fabric.utilities.seed][INFO] - Global seed set to 1234
+[07/11/25 19:35:46][__main__][INFO] - Loading model
+[07/11/25 19:35:46][__main__][INFO] - The topology will be neutral.
+[07/11/25 19:45:12][__main__][INFO] - Interaction script. The result will be saved there: /Volumes/ADATA HD650/HonourThesis/project/models/TEMOS/tmp/npy_png_output
+[07/11/25 19:45:12][__main__][INFO] - The sentence is: A person walks and waves
+[07/11/25 19:45:13][lightning_fabric.utilities.seed][INFO] - Global seed set to 1234
+[07/11/25 19:45:13][__main__][INFO] - Loading model
+[07/11/25 19:45:13][__main__][INFO] - The topology will be neutral.

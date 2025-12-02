@@ -1,0 +1,5 @@
+[04/08/25 12:35:23][__main__][INFO] - Interaction script. The result will be saved there: /Volumes/ADATA HD650/HonourThesis/project/tmp/motiongen_output
+[04/08/25 12:35:23][__main__][INFO] - The sentence is: A person walks and waves
+[04/08/25 12:35:25][lightning_fabric.utilities.seed][INFO] - Global seed set to 1234
+[04/08/25 12:35:25][__main__][INFO] - Loading model
+[04/08/25 12:35:25][__main__][INFO] - The topology will be neutral.

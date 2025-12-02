@@ -1,0 +1,25 @@
+[03/08/25 20:52:02][__main__][INFO] - Interaction script. The result will be saved there: /tmp/motiongen_output
+[03/08/25 20:52:02][__main__][INFO] - The sentence is: A person walks and waves
+[03/08/25 20:52:05][lightning_fabric.utilities.seed][INFO] - Global seed set to 1234
+[03/08/25 20:52:05][__main__][INFO] - Loading model
+[03/08/25 20:52:05][__main__][INFO] - The topology will be neutral.
+[05/08/25 11:34:05][__main__][INFO] - Interaction script. The result will be saved there: /Volumes/ADATA HD650/HonourThesis/project/models/TEMOS/tmp/npy_png_output
+[05/08/25 11:34:05][__main__][INFO] - The sentence is: A person walks and waves
+[05/08/25 11:34:07][lightning_fabric.utilities.seed][INFO] - Global seed set to 1234
+[05/08/25 11:34:07][__main__][INFO] - Loading model
+[05/08/25 11:34:07][__main__][INFO] - The topology will be neutral.
+[09/10/25 09:55:00][__main__][INFO] - Interaction script. The result will be saved there: /Volumes/ADATA HD650/HonourThesis/project/models/TEMOS/tmp/npy_png_output
+[09/10/25 09:55:00][__main__][INFO] - The sentence is: A person raises their right arm forward to shoulder height
+[09/10/25 09:55:06][lightning_fabric.utilities.seed][INFO] - Global seed set to 1234
+[09/10/25 09:55:06][__main__][INFO] - Loading model
+[09/10/25 09:55:06][__main__][INFO] - The topology will be neutral.
+[09/10/25 09:55:27][__main__][INFO] - Interaction script. The result will be saved there: /Volumes/ADATA HD650/HonourThesis/project/models/TEMOS/tmp/npy_png_output
+[09/10/25 09:55:27][__main__][INFO] - The sentence is: A person raises their right arm forward to shoulder height
+[09/10/25 09:55:29][lightning_fabric.utilities.seed][INFO] - Global seed set to 1234
+[09/10/25 09:55:29][__main__][INFO] - Loading model
+[09/10/25 09:55:29][__main__][INFO] - The topology will be neutral.
+[09/10/25 17:18:05][__main__][INFO] - Interaction script. The result will be saved there: /Volumes/ADATA HD650/HonourThesis/project/models/TEMOS/tmp/npy_png_output
+[09/10/25 17:18:05][__main__][INFO] - The sentence is: A person walks and waves
+[09/10/25 17:18:08][lightning_fabric.utilities.seed][INFO] - Global seed set to 1234
+[09/10/25 17:18:08][__main__][INFO] - Loading model
+[09/10/25 17:18:08][__main__][INFO] - The topology will be neutral.
