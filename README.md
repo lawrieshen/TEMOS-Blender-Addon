@@ -138,9 +138,5 @@ https://mathis.petrovich.fr/temos/
 
    * Enter a **text prompt** describing the motion (e.g. *“a person slowly raises their left arm and waves”*).
    * Set the desired length of the motion sequence to be generated.
-   * Click **“Generate Motion”**.
-
-4. **Preview and refine**
-
-   * Click **“Preview Motion”** to run a lightweight inference step. You can inspect the onion-skin image in the UI window as a preview.
+   * Click **Preview Motion”** to run a lightweight inference step. You can inspect the onion-skin image in the UI window as a preview.
    * Click **“Generate Motion”** to create the full motion visualization in the Blender viewport and apply it to your scene.
