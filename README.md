@@ -12,6 +12,16 @@ The TEMOS Blender Add-on provides a seamless pipeline for generating human motio
 
 This workflow removes the need for manual export/import steps and keeps the entire ideation–to–animation process inside Blender.
 
+
+
+https://github.com/user-attachments/assets/7e97da51-6744-43cb-8e4d-ac5aaf5a618c
+
+
+
+https://github.com/user-attachments/assets/695530d4-6be8-432f-be35-fb2a8d9d7ca0
+
+
+
 ### Academic Context
 
 This project contains the code and experiments developed for an undergraduate honours thesis at the University of Sydney titled:
