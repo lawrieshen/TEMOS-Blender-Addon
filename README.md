@@ -50,6 +50,13 @@ https://mathis.petrovich.fr/temos/
 }
 ```
 
+## System Design
+
+### High-Level Overall System Design
+
+<img width="3578" height="2908" alt="image" src="https://github.com/user-attachments/assets/4e850f03-bed5-4565-b599-2a8994fd97a9" />
+
+
 ## Getting Started
 
 ### Prerequisites
